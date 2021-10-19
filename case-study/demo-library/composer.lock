@@ -8,20 +8,20 @@
     "packages": [
         {
             "name": "doublegunz/belajar-aritmatika",
-            "version": "v1.0.2",
+            "version": "v1.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doublegunz/BelajarAritmatika.git",
-                "reference": "adc44228e358f28cea4011f47ff9be9a9388824f"
+                "reference": "2d4953b99a9de97a6ca2c42e6f5fd28607fa767b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doublegunz/BelajarAritmatika/zipball/adc44228e358f28cea4011f47ff9be9a9388824f",
-                "reference": "adc44228e358f28cea4011f47ff9be9a9388824f",
+                "url": "https://api.github.com/repos/doublegunz/BelajarAritmatika/zipball/2d4953b99a9de97a6ca2c42e6f5fd28607fa767b",
+                "reference": "2d4953b99a9de97a6ca2c42e6f5fd28607fa767b",
                 "shasum": ""
             },
             "require": {
-                "php": "~7.2"
+                "php": "^7.2|^8.0"
             },
             "require-dev": {
                 "phpunit/phpunit": "^9.5",
@@ -53,9 +53,9 @@
             ],
             "support": {
                 "issues": "https://github.com/doublegunz/BelajarAritmatika/issues",
-                "source": "https://github.com/doublegunz/BelajarAritmatika/tree/v1.0.2"
+                "source": "https://github.com/doublegunz/BelajarAritmatika/tree/v1.0.4"
             },
-            "time": "2021-10-17T01:39:40+00:00"
+            "time": "2021-10-19T00:39:04+00:00"
         }
     ],
     "packages-dev": [],
