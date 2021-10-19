@@ -1,0 +1,15 @@
+{
+    "name": "doublegunz/demo-library",
+    "description": "test install library belajar aritmatika",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gun Gun Priatna",
+            "email": "gungunpriatna02@gmail.com"
+        }
+    ],
+    "require": {
+        "doublegunz/belajar-aritmatika": "^1.0"
+    }
+}
